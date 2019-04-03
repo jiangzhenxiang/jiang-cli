@@ -1,6 +1,6 @@
 {
   "name": "jiang-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "lcodeicense": "ISC",
   "homepage": "https://github.com/jiangzhenxiang/jiang-cli"
 }
